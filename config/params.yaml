@@ -3,7 +3,7 @@
       video_device: "/dev/video42"
       framerate: 30.0
       io_method: "mmap"
-      frame_id: "camera"
+      frame_id: "gopro_camera"
       pixel_format: "yu12"
       color_format: "yuv420p"
       image_width: 1920
